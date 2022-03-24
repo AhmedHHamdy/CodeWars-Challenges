@@ -8,6 +8,7 @@ Examples (Input -> Output):
 Good Luck!*/
 
 
+
 function doubleChar(str) {
     // Your code here
     let word = '';
