@@ -25,8 +25,8 @@ const doubleChar = (str) => str.split("").map(c => c + c).join("");
 
 
 
-
 // ----------------------------------
+
 
 
 
@@ -55,7 +55,12 @@ var max = function(list){
 }
 
 
+
+
 // ----------------------------------
+
+
+
 
 /* Make a function that will return a greeting statement that uses an input; your program should return, "Hello, <name> how are you doing today?".
 
@@ -73,13 +78,14 @@ function greet(name){
 
 
 
-
 // ----------------------------------
+
+
+
+
 
 /*Complete the function that calculates the area of the red square, when the length of the circular arc A is given as the input. 
 Return the result rounded to two decimals.*/
-
-
 
 
 
@@ -95,7 +101,12 @@ function squareArea(A){
 
 
 
+
+
 // ----------------------------------
+
+
+
 
 /*Complete the function that takes two integers (a, b, where a < b) and return an array of
 all integers between the input parameters, including them.
@@ -118,7 +129,12 @@ function between(a, b) {
 
 
 
+
+
 // ----------------------------------
+
+
+
 
 /*In this kata you will create a function that takes in a list and returns a list with the reverse order.
 
@@ -136,8 +152,11 @@ function reverseList(list) {
 
 
 
-
 // ----------------------------------
+
+
+
+
 
 /*Sentence Smash
 Write a function that takes an array of words and smashes them together into a sentence and returns the sentence. You can ignore any need to sanitize words or add punctuation, but you should add spaces between each word. Be careful, there shouldn't be a space at the beginning or the end of the sentence!
@@ -153,7 +172,11 @@ function smash (words) {
 
 
 
+
+
 // ----------------------------------
+
+
 
 
 /*
@@ -168,7 +191,12 @@ function isPalindrome(x) {
 }
   
 
+
+
 // ----------------------------------
+
+
+
 
 
 /*
@@ -201,7 +229,12 @@ function find_difference(a, b) {
 }
 
 
+
+
 // ----------------------------------
+
+
+
 
 /* 
 Filter out the geese
