@@ -295,7 +295,7 @@ Note: Use "" instead of '' in C++.
 function updateLight(current) {
   
     //your code here!
-    status = {
+    let status = {
       red: 'green',
       green: 'yellow',
       yellow: 'red'
