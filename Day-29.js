@@ -1,6 +1,6 @@
 /*
 --> Simple Fun #193: Moment Of Time In Space
-Task
+
 You are given a moment in time and space. What you must do is break it down into time and space,
  to determine if that moment is from the past, present or future.
 
