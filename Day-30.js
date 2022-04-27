@@ -14,6 +14,5 @@ function createArray(number){
     return newArray;
 }
 
-
 // ---------------------
 
